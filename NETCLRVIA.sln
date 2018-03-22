@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TupleDemo", "TupleDemo\Tupl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropDemo", "PropDemo\PropDemo.csproj", "{14F86E54-59BF-4976-9037-94AFCA722095}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventDemo", "EventDemo\EventDemo.csproj", "{28A26075-0B04-4A93-B788-2804A47592D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{14F86E54-59BF-4976-9037-94AFCA722095}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14F86E54-59BF-4976-9037-94AFCA722095}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14F86E54-59BF-4976-9037-94AFCA722095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28A26075-0B04-4A93-B788-2804A47592D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A26075-0B04-4A93-B788-2804A47592D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A26075-0B04-4A93-B788-2804A47592D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A26075-0B04-4A93-B788-2804A47592D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
