@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceDemo", "InterfaceD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureStringDemo", "SecureString\SecureStringDemo.csproj", "{43FF7D69-6F81-4CA5-A6F6-674E70B8CC35}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlagsDemo", "FlagsDemo\FlagsDemo.csproj", "{5BA6A506-F0C2-4F25-874C-DBDE530CECCC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{43FF7D69-6F81-4CA5-A6F6-674E70B8CC35}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43FF7D69-6F81-4CA5-A6F6-674E70B8CC35}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43FF7D69-6F81-4CA5-A6F6-674E70B8CC35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BA6A506-F0C2-4F25-874C-DBDE530CECCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BA6A506-F0C2-4F25-874C-DBDE530CECCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BA6A506-F0C2-4F25-874C-DBDE530CECCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BA6A506-F0C2-4F25-874C-DBDE530CECCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
