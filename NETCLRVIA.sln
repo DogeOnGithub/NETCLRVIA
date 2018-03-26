@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayDemo", "ArrayDemo\Arra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackallocDemo", "StackallocDemo\StackallocDemo.csproj", "{0C3FA36E-FCC4-4A43-BD27-043186432702}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticastDelegateDemo", "MulticastDelegateDemo\MulticastDelegateDemo.csproj", "{BFC90CDF-0649-4805-933D-2C1E62118AE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{0C3FA36E-FCC4-4A43-BD27-043186432702}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C3FA36E-FCC4-4A43-BD27-043186432702}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C3FA36E-FCC4-4A43-BD27-043186432702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFC90CDF-0649-4805-933D-2C1E62118AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC90CDF-0649-4805-933D-2C1E62118AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC90CDF-0649-4805-933D-2C1E62118AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC90CDF-0649-4805-933D-2C1E62118AE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
