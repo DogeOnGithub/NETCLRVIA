@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticastDelegateDemo", "Mu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributeDemo", "AttributeDemo\AttributeDemo.csproj", "{21586364-3BA3-48A9-8D56-97A51E324AF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributeDemo2", "AttributeDemo2\AttributeDemo2.csproj", "{6C9885F4-7D58-4060-97FF-AAFB8CC7CE19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{21586364-3BA3-48A9-8D56-97A51E324AF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21586364-3BA3-48A9-8D56-97A51E324AF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21586364-3BA3-48A9-8D56-97A51E324AF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C9885F4-7D58-4060-97FF-AAFB8CC7CE19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C9885F4-7D58-4060-97FF-AAFB8CC7CE19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C9885F4-7D58-4060-97FF-AAFB8CC7CE19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C9885F4-7D58-4060-97FF-AAFB8CC7CE19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
