@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializeDemo_01", "Seriali
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializeDemo_02", "SerializeDemo_02\SerializeDemo_02.csproj", "{793110C1-BFC6-4117-8F04-722239AD85B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializeDemo_03", "SerializeDemo_03\SerializeDemo_03.csproj", "{B9F00D4A-EA4B-4DD9-94D0-91A1F0F5C8F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{793110C1-BFC6-4117-8F04-722239AD85B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{793110C1-BFC6-4117-8F04-722239AD85B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{793110C1-BFC6-4117-8F04-722239AD85B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9F00D4A-EA4B-4DD9-94D0-91A1F0F5C8F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F00D4A-EA4B-4DD9-94D0-91A1F0F5C8F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F00D4A-EA4B-4DD9-94D0-91A1F0F5C8F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F00D4A-EA4B-4DD9-94D0-91A1F0F5C8F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
