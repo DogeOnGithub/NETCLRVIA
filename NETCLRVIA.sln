@@ -73,6 +73,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLINQDemo_01", "PLINQDemo_0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerDemo_01", "TimerDemo_01\TimerDemo_01.csproj", "{3EA099F9-4767-479E-9696-BF11286D07FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskLogger", "TaskLogger\TaskLogger.csproj", "{5F25894A-3904-43C2-A5F3-FC9240E0D8E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +221,10 @@ Global
 		{3EA099F9-4767-479E-9696-BF11286D07FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EA099F9-4767-479E-9696-BF11286D07FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EA099F9-4767-479E-9696-BF11286D07FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F25894A-3904-43C2-A5F3-FC9240E0D8E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F25894A-3904-43C2-A5F3-FC9240E0D8E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F25894A-3904-43C2-A5F3-FC9240E0D8E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F25894A-3904-43C2-A5F3-FC9240E0D8E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
